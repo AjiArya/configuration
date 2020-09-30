@@ -1,0 +1,2 @@
+# configuration
+My laptop configuration
